@@ -1,5 +1,5 @@
 # OffYourChest
-Sample Blog for TomasinoWeb Back-End Developer Application
+Sample Blog for TomasinoWeb Back-End Web Developer Application
 
 Access the website with this link
 http://offyourchest.infinityfreeapp.com/
